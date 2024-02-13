@@ -1,0 +1,9 @@
+body {
+  background: #456;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.kalkulator-container {
+  background: #ebebeb;
+  padding: 12px;
+}
